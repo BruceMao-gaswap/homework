@@ -1,0 +1,12 @@
+首先，测试网是 Goerli，Chain id 是 5.
+交易哈希是：0x4a8c3223e3b54c95e8bf3feb3f618e071f982c49844affd069f0ca8bca4dde29
+交易类型是普通交易
+原始交易信息字段：
+from:0xa02dd92018e1c9f41e2ad22ce776f61b56bdee94
+nonce:13
+gasPrice:94.172802265 Gwei
+gasLimit:21000
+chainId:5
+to:0xb3d336f04b32684a4eeb1ec79fdbf90f31cd3526
+value:0.01
+data:'0x0'
